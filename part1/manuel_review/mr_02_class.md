@@ -1,3 +1,6 @@
+# HBnB Business Logic Class Diagram
+
+```mermaid
 classDiagram
 
 %% ENTITY CLASSES
